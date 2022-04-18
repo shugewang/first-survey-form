@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar&display=swap');
+
+body {
+  font-family: 'Akshar', sans-serif;
+  font-size = 1rem;
+  background-color: #006D77;
+  color: black;
+}
+
+header {
+  color: #F7B2BD;
+  text-align: center;
+}
+#survey-form{
+  padding: 1rem;
+  background-color: #F2CD5D;
+  border-radius:20px;
+}
+
+.form-section{
+  padding: 1rem;
+}
+
+.footer{
+  color: white;
+  text-align:center;
+}
