@@ -1,2 +1,2 @@
 # first-survey-form
-This is one of the projects I made for the Responsive Web Design Certification on freeCodeCamp.
+A simple survey form I made as part of the fCC certification. I practised using different form elements and input types.
